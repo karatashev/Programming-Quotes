@@ -1,3 +1,11 @@
+
+<img width="1085" alt="Screenshot 2022-06-24 at 12 59 07" src="https://user-images.githubusercontent.com/95942547/175521960-e9b588a9-984d-4d7c-b586-c5f6d6db6acb.png">
+
+- Using React Hooks and props to render programming quote every 3 seconds
+
+- Imported Loader at the beginning of the Intereval.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
