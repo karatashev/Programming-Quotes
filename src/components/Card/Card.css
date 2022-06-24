@@ -1,0 +1,31 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 600px;
+  height: 250px;
+  background-color: #5252a6a9;
+  color: white;
+  margin-top: 70px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 11px 8px 7px -3px rgba(200,190,190,0.73);
+  -webkit-box-shadow: 11px 8px 7px -3px rgba(200,190,190,0.73);
+  -moz-box-shadow: 11px 8px 7px -3px rgba(200,190,190,0.73);
+}
+
+.quote {
+  font-size: 1.5rem;
+}
+
+.author {
+  margin: 15px;
+  font-size: 1.2rem;
+  color: #c8bebe;
+}
+
+.icon {
+  font-size: 50px;
+}
